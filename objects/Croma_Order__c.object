@@ -3,7 +3,7 @@
 <label>Croma Order</label>
     <pluralLabel>Croma Orders</pluralLabel>
 <nameField>
-    <type>AutoNumber</type>
+    <type>AutoNumber</type> 
     <label>Croma Order Name</label>
     <displayFormat>CO-{0000}</displayFormat>
 </nameField>
